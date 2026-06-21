@@ -12,7 +12,7 @@ from siyuan_api_client import SiYuanClient
 
 # 配置路径
 COURSE_OUTPUT_BASE = "/vol02/1000-0-f9fae032/同步/课程-output"
-SIYUAN_CONFIG_FILE = "/vol1/@apphome/trim.openclaw/data/workspace/skills/siyuan-integration/siyuan-config.json"
+SIYUAN_CONFIG_FILE = "<config-path>/siyuan-config.json"
 
 SUBJECTS = ["01_practice", "02_law", "03_comprehensive"]
 SUBJECT_NAMES = {
